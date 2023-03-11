@@ -1,2 +1,4 @@
 node_modules/
 package-lock.json
+#Use pessoal
+db.json
